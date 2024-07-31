@@ -11,7 +11,9 @@ My passion for uncovering insights and driving efficiency fuels my continuous le
 - ⚡ Fun fact: My passion for arts fuels my creativity, allowing me to approach every challenge with a unique and innovative perspective.
 
 ### 📚 Projects
-Welcome to my portfolio, where I showcase my [projects.](https://github.com/roxy-portfolio/Bellabeat-SQL-Tableau)
+Welcome to my portfolio, where I showcase my projects.
+- [SQL](https://github.com/roxy-portfolio/Bellabeat-SQL-Tableau/blob/main/Data%20Cleaning%20and%20Manipulation.md)
+- Tableau
 
 ### 🛠️ Tools
 - Language: SQL, R
