@@ -8,7 +8,7 @@ My passion for uncovering insights and driving efficiency fuels my continuous le
 - 👀 Interests: Business, Health and Wellness, Arts, and Fitness
 - 🌱 Currently learning: Advanced data analytics in Python and R
 - 📫 Connect with me on [LinkedIn](www.linkedin.com/in/roxadarve)
-- ⚡ Fun fact: My passion for arts fuels my creativity, allowing me to approach every challenge with a unique and innovative perspective.
+
 
 ### 📚 Projects
 Welcome to my portfolio, where I showcase my projects.
